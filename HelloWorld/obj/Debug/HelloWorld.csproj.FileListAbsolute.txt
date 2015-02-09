@@ -4,3 +4,5 @@ c:\users\linnea.sandelin\documents\visual studio 2013\Projects\HelloWorld\HelloW
 c:\users\linnea.sandelin\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
 c:\users\linnea.sandelin\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
 c:\users\linnea.sandelin\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\linnea.sandelin\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\bin\Debug\nunit.framework.dll
+C:\Users\linnea.sandelin\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\bin\Debug\nunit.framework.xml
